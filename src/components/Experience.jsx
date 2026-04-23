@@ -9,7 +9,7 @@ const Experience = () => {
       role: 'Backend Developer Intern',
       type: 'Paid Internship',
       duration: 'June 2024 - Present',
-      location: 'Bhopal, India',
+      location: 'Remote',
       responsibilities: [
         'Developed RESTful APIs using Go and Node.js for MiRestro restaurant management system',
         'Implemented Redis caching strategies to improve API response times by 40%',
@@ -24,7 +24,7 @@ const Experience = () => {
       role: 'Full Stack Developer Trainee',
       type: 'Vocational Training',
       duration: 'January 2024 - May 2024',
-      location: 'Bhopal, India',
+      location: 'Raipur, Chhattisgarh, India',
       responsibilities: [
         'Built SkyTM digital wallet application using Angular and .NET framework',
         'Implemented secure user authentication and authorization systems',
@@ -39,7 +39,7 @@ const Experience = () => {
       role: 'Web Development Intern',
       type: 'Unpaid Internship',
       duration: 'August 2023 - December 2023',
-      location: 'Remote',
+      location: 'Durg, Chhattisgarh, India',
       responsibilities: [
         'Developed gym management system using Next.js and MongoDB',
         'Created member registration and payment tracking modules',
