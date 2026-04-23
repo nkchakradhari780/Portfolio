@@ -1,0 +1,19 @@
+📄 RESUME PLACEHOLDER
+
+This file serves as a reminder to add your resume.
+
+TO ADD YOUR RESUME:
+
+1. Save your resume as a PDF file
+2. Name it "resume.pdf" (or any name you prefer)
+3. Place it in this folder (public/)
+4. Delete this RESUME_PLACEHOLDER.txt file
+5. If you named it something other than "resume.pdf", update the link in:
+   - src/components/Hero.jsx (line ~41)
+
+The resume download link is already configured in the Hero section.
+
+Example path: /public/resume.pdf
+Will be accessible at: https://yoursite.com/resume.pdf
+
+NOTE: The public folder contents are copied to the root of your deployed site.
