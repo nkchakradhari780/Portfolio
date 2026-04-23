@@ -13,9 +13,9 @@ const Footer = () => {
   ];
 
   const socialLinks = [
-    { icon: <FaGithub />, link: 'https://github.com/nitin-chakradhari', label: 'GitHub' },
-    { icon: <FaLinkedin />, link: 'https://linkedin.com/in/nitin-chakradhari', label: 'LinkedIn' },
-    { icon: <FaEnvelope />, link: 'mailto:nitin.chakradhari@example.com', label: 'Email' }
+    { icon: <FaGithub />, link: 'https://github.com/nkchakradhari780', label: 'GitHub' },
+    { icon: <FaLinkedin />, link: 'https://www.linkedin.com/in/nkchakradhari', label: 'LinkedIn' },
+    { icon: <FaEnvelope />, link: 'mailto:nitinchakradhari780@gmail.com', label: 'Email' }
   ];
 
   const handleNavClick = (e, href) => {
